@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.0.1] - 2020-07-20
+- Fix issue with decimal percentage values
+
 ## [1.0.1] - 2020-03-20
 - CProgressBar object: added setProgressBarValue() public method
 
